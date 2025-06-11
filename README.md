@@ -4,7 +4,7 @@ This document provides concise, formal instructions for generating a Binder laun
 
 - Navigate to https://mybinder.org.
 
-- Paste the repository URL https://github.com/username/repo).](https://github.com/MiguelAlvarezBerjon/TFG_Manufacturing_Costs/new/main?filename=README.md)
+- Paste the repository URL (https://github.com/MiguelAlvarezBerjon/TFG_Manufacturing_Costs/new/main?filename=README.md)
 
 - Specify the branch main
 
